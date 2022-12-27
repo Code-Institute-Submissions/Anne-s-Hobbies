@@ -27,4 +27,6 @@ The site was deployed to Github pages and the steps are as follows;
   https://replit.com/@AnneMusyoki/WellwornSevereCollaborativesoftware#asset
   Above is a link of all the pictures used from lanfing page and background pictures on all pages.
 The music and videos used on gallery page were from [https://replit.com/@AnneMusyoki/WellwornSevereCollaborativesoftware#gallery.html](https://www.chosic.com/download-audio/45433/) and (https://www.pexels.com/video/a-person-cooking-fried-rice-4932519/).
+#Content
+The icons on my footer i used them from Font Awesome and google fonts on all pages 
 
