@@ -23,3 +23,8 @@ The site was deployed to Github pages and the steps are as follows;
   In the GitHub repository, navigate to the Settings tab
   From the source section drop-down menu, select the Master Branch
   Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
+  #Media
+  https://replit.com/@AnneMusyoki/WellwornSevereCollaborativesoftware#asset
+  Above is a link of all the pictures used from lanfing page and background pictures on all pages.
+The music and videos used on gallery page were from [https://replit.com/@AnneMusyoki/WellwornSevereCollaborativesoftware#gallery.html](https://www.chosic.com/download-audio/45433/) and (https://www.pexels.com/video/a-person-cooking-fried-rice-4932519/).
+
