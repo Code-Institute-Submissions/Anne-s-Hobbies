@@ -1,2 +1,15 @@
 # Anne-s-Hobbies
 In this section, Anne's Hobbies is a site talking about her hobbies and hoping to help people be motivated on their daily activities especially reducing stress,low moods and depression.
+#Features
+Navigation bar
+Features all the three pages i.e About,Gallery and contact page.
+#Landing page
+In this section,the page has a photograph of anne,and overlaying texts explaining how her hobbies helps her.
+There is also footer which is linked to all pages.
+#About
+Here,it has description and list of hobbies both outdoors and indoors
+#Gallery
+Here you will find the gallery,and links of the hobbies plus audio/videos
+#Contact
+Finally in the contact, it's a form to fill up details incase you want to reach out or for suggestions,or recommendations
+#Testing/Validator
